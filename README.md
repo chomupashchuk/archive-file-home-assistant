@@ -10,7 +10,7 @@ archive:
 
 ## Services
 ### Service: archive.file
-`archive.file` is used to delete a file.
+`archive.file` is used to archive a file.
 
 #### attributes:
 - `file` is used to indicate file path. it is a mandatory attribute.
